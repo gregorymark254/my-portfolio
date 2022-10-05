@@ -1,0 +1,71 @@
+.about {
+  flex-direction: column;
+  margin-top: 2em;
+}
+
+.about__name {
+  color: var(--clr-primary);
+}
+
+.about__role {
+  margin-top: 1.2em;
+}
+
+.about__desc {
+  font-size: 1rem;
+  max-width: 600px;
+}
+
+.about__desc,
+.about__contact {
+  margin-top: 2.4em;
+}
+
+.about .link--icon {
+  margin-right: 0.8em;
+}
+
+.about .btn--outline {
+  margin-right: 1em;
+}
+
+.image img{
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  margin-top: 50px;
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+  transition: opacity 0.3s;
+  margin-right : 40px;
+  
+}
+
+.profile{
+  display: flex;
+}
+
+@media (max-width: 600px) {
+  .app .about {
+    align-items: flex-start;
+    margin-top: 0;
+  }
+  .app .about__contact{
+    margin-left : 100px;
+  }
+  .app .profile {
+    display : block;
+  }
+
+  .app .image img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+    transition: opacity 0.3s;
+    margin-left : 80px;
+  }
+}
+
+
