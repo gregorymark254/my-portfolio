@@ -7,7 +7,7 @@ const about = {
   name: 'Gregory Mark',
   role: 'Front End Engineer',
   description:
-    "My name is Gregory. I'm a web designer and Software developer based in Nairobi,Kenya. I work on freelance projects and utilize the time to built my own products. I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time.  I spent my leisure hours researching and buliding projects. I love to learn and explore new arenas.",
+    "My name is Gregory. I'm a web designer and Software developer based in Nairobi,Kenya. I work on freelance projects and utilize the time to build my own products. I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learning new things all the time.  I spend my leisure hours researching and buliding projects. I love to learn and explore new arenas.",
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/gregory-mark-509b5b184/',
