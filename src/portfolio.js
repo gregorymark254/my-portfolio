@@ -31,8 +31,8 @@ const projects = [
     description:
       "A shopping cart is an essential part of a retailer's online store that streamlines the online shopping experience. It's software that allows website visitors to select, reserve, and purchase a product or service from an eCommerce interface.",
     stack: ['CSS', 'React'],
-    sourceCode: 'https://react-basket.netlify.app/',
-    livePreview: 'https://github.com/gregorymark254/simple-react-shopping-basket',
+    sourceCode: '',
+    livePreview: 'https://react-basket.netlify.app/',
   },
   {
     name: 'Project 3',
