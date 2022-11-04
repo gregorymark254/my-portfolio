@@ -18,21 +18,21 @@ const about = {
 const projects = [
   {
     name: 'Project 1',
-    title : 'Photography Website',
+    title : 'Photography Website portfolio',
     description:
       'Having a professional photo taken helps build trust and credibility with your client, and it demonstrates that you value their time. ',
     stack: ['Tailwind', 'React'],
     sourceCode: 'https://github.com/gregorymark254/Royal-Lens',
-    livePreview: 'https://Royal-lens.netlify.app/',
+    livePreview: 'https://carloz.vercel.app/',
   },
   {
     name: 'Project 2',
-    title : 'Simple React Basket',
+    title : 'Non-profit organization website',
     description:
-      "A shopping cart is an essential part of a retailer's online store that streamlines the online shopping experience. It's software that allows website visitors to select, reserve, and purchase a product or service from an eCommerce interface.",
+      "Is a legal entity organized and operated for a collective, public or social benefit, in contrast with an entity that operates as a business aiming to generate a profit for its owners.",
     stack: ['CSS', 'React'],
-    sourceCode: 'https://github.com/gregorymark254/react-basket',
-    livePreview: 'https://react-basket.netlify.app/',
+    sourceCode: 'https://github.com/gregorymark254/mental-hub',
+    livePreview: 'https://mental-hub.vercel.app//',
   },
   {
     name: 'Project 3',
